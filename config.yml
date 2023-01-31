@@ -45,15 +45,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "https://img.icons8.com/ios/512/google-code.png"
+    favicon16x16: "https://img.icons8.com/ios/512/google-code.png"
+    favicon32x32: "https://img.icons8.com/ios/512/google-code.png"
+    apple_touch_icon: "https://img.icons8.com/ios/512/google-code.png"
+    safari_pinned_tab: "https://img.icons8.com/ios/512/google-code.png"
 
   label:
     text: "DanielM0reno"
-    icon: /apple-touch-icon.png
+    icon: ""
     iconHeight: 35
 
   # profile-mode
@@ -81,6 +81,8 @@ params:
       url: "https://twitter.com/_danim0reno"
     - name: github
       url: "https://github.com/DanielM0reno"
+    - name: instagram
+      url: "https://www.instagram.com/dani.m0reno/"
 
   # analytics:
   #   google:
